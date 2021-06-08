@@ -1,1 +1,1 @@
-# Coursera_Capstone_Project
+# Applied_Data_Science_Coursera_Capstone
